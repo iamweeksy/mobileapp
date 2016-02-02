@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<All>         
+        <task>
+              <question>What are the 3 colours on the Bolivian flag?</question>
+              <option>Red, Yellow, Green</option>
+              <option>Green, Blue, Purple</option>
+              <option>Red, Green, White</option>
+			  <answer>Red, Yellow, Green</answer>
+        </task>         
+        <task>
+              <question>WWhen is Bolivian Independance Day?</question>
+              <option>Feb 16th</option>
+              <option>July 24th</option>
+              <option>August 6th</option>
+			  <answer>August 6th</answer>
+        </task>         
+        <task>
+              <question>What continent is Bolivia in?</question>
+              <option>Africa</option>
+              <option>South America</option>
+              <option>North America</option>
+			  <answer>South America</answer>
+        </task> 
+		<task>
+              <question>whats the second largest lake in Bolivia called?</question>
+              <option>Lake James</option>
+              <option>Lake Deep</option>
+              <option>Lake Poopo</option>
+			  <answer>Lake Poopo</answer>
+        </task>
+		<task>
+              <question>The Main Exporter of Brazil Nuts is?</question>
+              <option>Brazil</option>
+              <option>Chile</option>
+              <option>Bolivia</option>
+			  <answer>Bolivia</answer>
+        </task>          
+</All>
